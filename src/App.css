@@ -1,0 +1,48 @@
+body{
+  background: #86109B ;
+  font-size: 20px;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container{
+  text-align: center;
+  color: azure;
+  }
+.auto-title{
+  text-align: center;
+  color: azure;
+}
+.add-btn{
+  background-color: lightseagreen;
+  color: azure;
+  text-align: center;
+  border: none;
+  margin: 4px 2px;
+
+}
+.list{
+  text-align: center;
+  color: black;
+  border: black;
+  margin: 5px 5px;
+}
+
+.input-text{
+  margin: 10px;
+}
+.checkbox{
+  display: inline;
+  
+  border: solid azure;
+
+}
+.btn{
+  background-color: red;
+  border: none;
+  margin: 10px 4px;
+}
